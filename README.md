@@ -16,7 +16,7 @@ https://ibm.biz/BdfMG8
 
 ## Get access to the workshop environment
 
-Go to: https://code-engine-workshop.mybluemix.net
+1) Go to: https://code-engine-workshop.mybluemix.net
 
 - Enter the "Lab Key": cerocks
 - Enter your email (IBMid)
@@ -26,12 +26,12 @@ Go to: https://code-engine-workshop.mybluemix.net
 ![getenv](./images/getenv.png)
 
 
-You will get email with invitation to account on IBM Cloud, click "Join now"
+2) You will get email with invitation to account on IBM Cloud, click "Join now"
 
 ![email](./images/email.png)
 
 
-Log in to IBM Cloud, select the "1840867 - Advowork" account.
+3) Log in to IBM Cloud, select the "1840867 - Advowork" account.
 
 ![workspace](./images/workspace.png)
 
